@@ -1,3 +1,13 @@
+# Custom
+data/MNIST
+data/cifar*
+models/lenet*
+logs/
+scripts/*.sh
+notebooks/OPA*
+notebooks/imagenet_*
+notebooks/cifar100_*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
